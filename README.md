@@ -11,7 +11,6 @@ Track customer purchases: The system gathers information on what customers buy, 
 - Content-based Filtering: This technique focuses on the characteristics of the items themselves. It analyzes the attributes of products a customer has purchased (e.g., brand, color, size) and recommends items with similar attributes.
 
 # Contributors 
-
 - Standard Insights https://standardinsights.io
 - Hitesh https://github.com/khiteshk
 - Victor https://github.com/victorthemtt
@@ -19,6 +18,8 @@ Track customer purchases: The system gathers information on what customers buy, 
 - Meghana https://github.com/Meghana430 https://www.linkedin.com/in/meghana-s-kanthadai-70abba18a
 - Patrick  https://github.com/Patrick010115
 
+## About - Standard Insights
+- Standard Insights is a company that leverages AI for data analytics and marketing.
 ## About - Hitesh
 ## About - Victor
 ## About - Avani
