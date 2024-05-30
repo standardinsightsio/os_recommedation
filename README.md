@@ -12,7 +12,7 @@ Track customer purchases: The system gathers information on what customers buy, 
 
 # Contributors 
 
-- Standard Insights, FL, USA
+- [https://standardinsights.io] [Standard Insights]
 - Hitesh https://github.com/khiteshk
 - Victor https://github.com/victorthemtt
 - Avani https://github.com/Avani1297
